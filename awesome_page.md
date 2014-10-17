@@ -1,4 +1,4 @@
-this word is <strong>bold</strong>. was that <em>sooo</em> corny?
+
 
 <!DOCTYPE html>
 <html>
@@ -7,6 +7,7 @@ this word is <strong>bold</strong>. was that <em>sooo</em> corny?
   </head>
   <body>
     <h1>Here it is!!</h1>
-    <p>check out this <a href="https://www.devbootcamp.com">link</a>
+    <p>this word is <strong>bold</strong>. was that <em>sooo</em> corny?
+    <p>check out this <a href="http://www.devbootcamp.com">link</a> <p>
   </body>
   </html>
